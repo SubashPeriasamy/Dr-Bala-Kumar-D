@@ -56,7 +56,9 @@ ylabel('Amplitude');
 legend('Continuous-time', 'Reconstructed from 20 Hz samples','Reconstructed from 10 Hz samples','Reconstructed from 6 Hz samples');
 ```
 ## OUTPUT WAVEFORM :
-![Screenshot 2025-03-18 104847](https://github.com/user-attachments/assets/644b4a57-58e1-47d3-bc93-80b6a47abdb0)
+![WhatsApp Image 2025-03-18 at 11 13 37_51501a32](https://github.com/user-attachments/assets/3e43da16-4181-4c80-99c0-fac285e8a5af)
+![WhatsApp Image 2025-03-18 at 11 13 44_34ddc6a5](https://github.com/user-attachments/assets/cfc13ce2-6114-4af7-8e0e-44cf95aca8fb)
+
 
 
 ## RESULT :
